@@ -14,7 +14,7 @@
 ## How It Works
 
 1. **Select a Charity** – Browse and choose from a list of verified charities and causes.  
-2. **Make a Donation** – Send ETH or ERC-20 tokens securely using smart contracts.  
+2. **Make a Donation** – Send ETH securely using smart contracts.  
 3. **Blockchain Verification** – All donations are permanently recorded for full transparency.  
 4. **Fund Distribution** – Smart contracts automatically release funds to beneficiaries when conditions are met.
 
