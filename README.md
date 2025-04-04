@@ -23,13 +23,13 @@
 To set up the project locally, follow these steps:
 
 1. Clone Repository
-   git clone [https://github.com/your-username/charitychain.git](https://github.com/ElvinsonW/seed-charity.git)  
+   git clone [https://github.com/ElvinsonW/seed-charity.git](https://github.com/ElvinsonW/seed-charity.git)  
    cd seed-charity  
    cd server (to run the backend)  
    cd client (to run the frontend)  
-2. Install Depedency  
+3. Install Depedency  
    npm install
-3. Configure .env  
+4. Configure .env  
    Create a .env file and add required blockchain API keys.
-4. Start development server  
+5. Start development server  
    npm start  
